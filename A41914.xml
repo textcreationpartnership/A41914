@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from Ireland being motives of encouragement for the officers and souldiers who shall serve in the present war of Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41914</idno>
+            <idno type="STC">Wing G1723</idno>
+            <idno type="STC">ESTC R228916</idno>
+            <idno type="EEBO-CITATION">13647865</idno>
+            <idno type="OCLC">ocm 13647865</idno>
+            <idno type="VID">100937</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 789:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from Ireland being motives of encouragement for the officers and souldiers who shall serve in the present war of Ireland.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Moore ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed June 9th, 1689."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100937:1" rendition="simple:additions"/>
+            <head>Great news from IRELAND, Being Motives of Encouragement for the Officers and Souldiers who ſhall Serve in the <hi>Preſent War of Ireland.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licens'd <hi>April</hi> 9th, 1689.</p>
+                  <closer>
+                     <signed>James Fraſer.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <list>
+               <head>Drawn from the Heads following,</head>
+               <item>I. <hi>THE General Inability and Incapacity of the</hi> Iriſh <hi>to Manage Employs of Truſt and Power.</hi>
+               </item>
+               <item>II. <hi>The Neceſſity of a ſtanding Army and Garriſons in that Kingdom in times of Peace.</hi>
+               </item>
+               <item>III. <hi>The Eccleſiaſtical, Civil and Millitary, Employs; that muſt be in the hands of Proteſtants.</hi>
+               </item>
+               <item>IV. <hi>The Number and Vallew of the ſaid Employs.</hi>
+               </item>
+               <item>V. <hi>The Advantages may be made by Officers and Souldiers in that Service, over and above what thoſe had in the laſt War.</hi>
+               </item>
+               <item>VI. <hi>The Cheapneſs of Land and Proviſions, and Improvements to be made in that Kingdom.</hi>
+               </item>
+            </list>
+            <p>All which demonſtrates the <hi>Iriſh</hi> War to be the moſt advantageous promiſing Service in <hi>Europe.</hi>
+            </p>
+            <p n="1">1. HE that Reads the Ancient and Modern Hiſtories of that Kingdom, will there find the Irreconcileable Hatred the <hi>Iriſh</hi> have, and ever had, to the <hi>Brittiſh,</hi> and will alſo find that as oft as they have had Power, they have Exerted that Power, as much as in them lay, to the de<g ref="char:EOLhyphen"/>ſtruction of the <hi>Brittiſh</hi> Perſons and Plantations.</p>
+            <p n="2">2. That when the Religion of the Crown and People of <hi>England</hi> was the ſame with that of the Native <hi>Iriſh,</hi> yet their Hatred was the ſame then as now, as ap<g ref="char:EOLhyphen"/>pears by <hi>Giraldus Cambrenſis,</hi> by <hi>Spencer,</hi> by <hi>Paccata Hibernia,</hi> and in divers Acts of Parliaments before the Reign of King <hi>Henry</hi> the Eighth.</p>
+            <p n="3">3. More Sevear Laws were made againſt the <hi>Iriſh</hi> in thoſe times then ſince the Reformation, as may be ſeen in the ſaid Statutes.</p>
+            <p n="4">4. Both before the Reformation of Religion, and ſince, it appears, that what<g ref="char:EOLhyphen"/>ever was the perſwaſion of the Crown of <hi>England</hi> in matters of Religion, they ſtill found it their Intereſt, to Leſſen and Diſcourage the <hi>Iriſh</hi> Intereſt, and to En<g ref="char:EOLhyphen"/>large and Encourage the <hi>Brittiſh</hi> Intereſt in that Kingdom.</p>
+            <p n="5">5. King <hi>Henry</hi> the Eighth, his Son King <hi>Edward</hi> the Sixth, his two Daughters Queen <hi>Mary,</hi> and Queen <hi>Elizabeth,</hi> though of different Intereſts in matters of Church and State, ſtill perſued that End, as by the Laws made in thoſe times is Evident.</p>
+            <p n="6">6. Queen <hi>Mary</hi> who was a profeſt Papiſt, and Perſecuted Proteſtants in <hi>England,</hi> perſued the ſame End, and Encouraged Proteſtants in that Kingdom, as by the Sta<g ref="char:EOLhyphen"/>tutes then made may appear.</p>
+            <p n="7">7. Thoſe Governours who have moſt effectually perſued thoſe Ends have been ever Celebrated as the beſt Governours of that Kingdom, and the beſt Servants to the Crown of <hi>England.</hi>
+            </p>
+            <p n="8">8. The Crown of <hi>England,</hi> and the reſpective Governours of that Kingdom, knowing it Natural for a Conquered People to hate their Conquerours, and as well knowing that the Numbers of the <hi>Iriſh</hi> were much Superiour to the <hi>Brittiſh,</hi> They</p>
+            <pb n="2" facs="tcp:100937:2" rendition="simple:additions"/>
+            <p>Firſt, Made ſeveral Laws to put the Chief Places of Truſt and Power in that Kingdom into <hi>Brittiſh</hi> Hands, as the Laws themſelves Teſtifie, and</p>
+            <p>Secondly, But finding this too weak a Ballance, they then Settled and Eſtabliſh<g ref="char:EOLhyphen"/>ed a ſtanding <hi>Brittiſh</hi> Army for the <hi>Brittiſh</hi> further Security.</p>
+            <p n="9">9. Since the Reformation of Religion the <hi>Romiſh</hi> Clergy have Improved that Innate Hatred of the <hi>Iriſh</hi> to the <hi>Brittiſh,</hi> to a higher Elevation than before, as was too Evident in their laſt Rebellion in 1641, of which the Acts of Settlement and Acts of Attainder in the Reigns of <hi>Charles</hi> the Firſt, and <hi>Charles</hi> the Second, are Records to future Ages.</p>
+            <p>The ſaid Clergy having aſſumed to themſelves an Abſolute Sovereignty over the Conſciences, Lives and Eſtates, of the Natives of their Communion, have moſt Zealouſly Impoſed and Infuſed ſuch Principles, as are moſt ſuitable and conducing to their own Ends, and to the Ignorance and Barbarity of the deluded Natives. As</p>
+            <list>
+               <item>1. That Ignorance is the Mother of Devotion.</item>
+               <item>2. That there is but one Church, and that is the <hi>Roman Catholick</hi> Church,</item>
+               <item>3. That the ſaid Church, like <hi>Noah</hi>'s Ark, thoſe only are ſaved that are in it, and all loſt that are without it.</item>
+               <item>4. That they muſt believe as the Church believes.</item>
+               <item>5. That the Prieſts are this Church.</item>
+               <item>6. That the Prieſts have the Keys of Heaven, Hell and Purgatory, and they ſhut and open them as they pleaſe.</item>
+               <item>7. That the Prieſt's Abſolution is God's Abſolution.</item>
+               <item>8. That Obedience to the Church, <hi>viz.</hi> the Prieſts, is better then Sacrifice to God.</item>
+               <item>9. That Diſobedience is worſe then the Sin of Witchcraft, and was the Sin of <hi>Corah, Dathan</hi> and <hi>Abiram.</hi>
+               </item>
+               <item>10. That the Proteſtants are all Excomunicated Hereticks.</item>
+               <item>11. That they are all Secluded Heaven.</item>
+               <item>12. That Dominion and Propriety are founded in Grace, and that Proteſtants having not Grace, have no Right to Either.</item>
+               <item>13. That Proteſtants are all Workers of Iniquity, and ought to be deſtroy'd, and that it is no more Sin to Kill a Heretick, (<hi>viz.</hi> a Proteſtant,) then to Kill a Miſchievous Dog.</item>
+               <item>14. That an Oath taken on a Proteſtant Bible, is no more obliging, than if taken on <hi>Æſop</hi>'s <hi>Fables.</hi>
+               </item>
+               <item>15. That Private Chriſtians are not to Diſpute Matters of Religion, but are to receive that Knowledg from their Prieſts.</item>
+               <item>16. That the Prieſts and not the People, are accountable to God for the Peoples Miſtakes in matters of Religion.</item>
+               <item>17. That the Prieſts Pronouncing the Words of Conſecration make a piece of Bread to be a God.</item>
+            </list>
+            <p>And laſtly, That Private Chriſtians ought not to have, read or keep, a Bible.</p>
+            <p>Theſe and many other as Dangerous and Deſtructive Principles, appears not on<g ref="char:EOLhyphen"/>ly to be held and believed by theſe Ignorant and Barbarous People, but are proved, and that by a Reverend and no leſs Learned a Prelate then the preſent Biſhop of <hi>Lincolne,</hi> to be the Doctrines and Practices of the Papiſts, and Cannons of their Church, and are very ſuitable to <hi>Urbanus Octavus</hi> his Bull for, Conſecrating the Horrid and Bloody Rebellion in 1641.</p>
+            <q>
+               <l>As is the Fountain, ſuch muſt be the Streams,</l>
+               <l>As is the Tree, ſuch muſt be the Fruit.</l>
+            </q>
+            <p>A Learned Subtle and United Clergy, Impoſing and Improving theſe and the like Principles in<g ref="char:EOLhyphen"/>to an Illerate, Immoral, Looſe and Barbarous, People, Byaſſed with Prejudice and Mallice againſt the Perſons, Profeſſions and Laws, of the Crown of <hi>England,</hi> as they muſt needs ad<g ref="char:EOLhyphen"/>vance the <hi>Iriſh</hi> Papiſts, as aforeſaid, to the higheſt Elevation of Biggotry, ſo it muſt needs ren<g ref="char:EOLhyphen"/>der them unable and uncapable to receive any Places of Truſt and Power from a Proteſtant Prince, or to Exerciſe it over a Proteſtant People.</p>
+            <p>From whence it Naturally follows,
+<list>
+                  <item>1. That all Places of Truſt and Power in the Kingdom of <hi>Ireland</hi> muſt be put into the hands of Proteſtants, and</item>
+                  <pb n="3" facs="tcp:100937:2"/>
+                  <item>2. That the Numbers of theſe Biggotted <hi>Iriſh</hi> Papiſts being ſo diſproportionable, and their Hatred againſt the <hi>Brittiſh</hi> Proteſtants ſo Irreconcileable, it further appears, as aforeſaid, that the <hi>Brittiſh</hi> cannot be ſafe in <hi>Ireland</hi> without a good ſtanding Proteſtant Army for their con<g ref="char:EOLhyphen"/>ſtant Security.</item>
+                  <item>3. That this Army put into the hands of Sober, Vertuous, Diſcreet and Experienced, Offi<g ref="char:EOLhyphen"/>cers, will not only be a Security to the Proteſtants there, but a Seminary to the Crown of <hi>England,</hi> whence, as occaſion offers, may be drawn good Officers and Souldiers.</item>
+                  <item>4. That in the Kingdom of <hi>Ireland</hi> are many fixed and Eſtabliſhed Garriſons, which the Go<g ref="char:EOLhyphen"/>vernment uſually granted for Life, with conſiderable Revenues, Fees, and other Perquiſits, over and above the Eſtabliſhment of their Pay.</item>
+                  <item>5. That the Officers of the Army have uſually had the Addition of Civil Employs, which are many times more Beneficial then their Military Offices, and given them to make their Perſons and Employs the more Conſiderable in their reſpective Stations, which ſaid Employs upon En<g ref="char:EOLhyphen"/>quiry will be found to be many in Number, as well as Conſiderable in point of Profit, and may be Reduceable to theſe following Heads,
+<list>
+                        <item>1. Officers or Dependants on the Chief Governour and State.</item>
+                        <item>2. Officers or Dependants on the Courts of Judicature.</item>
+                        <item>3. Officers or Dependants on the Army.</item>
+                        <item>4. Officers or Dependants on the King's Revenue.</item>
+                        <item>5. Officers or Dependants on the Church.</item>
+                        <item>6. Officers or Dependants on the reſpective Counties, Cities, Towns Corporate and Burroughs.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. As to the Officers and Dependants on the Chief Governour and State in <hi>Ireland,</hi> they are in a great meaſure the ſame with thoſe of the King and State in <hi>England,</hi> and at a mode<g ref="char:EOLhyphen"/>rate Calculation cannot be leſs than two hundred.</p>
+            <p n="2">2. Tke Officers and Dependants on the Courts of Judicature, are alſo much the ſame with thoſe of <hi>England,</hi> and are more than four hundred.</p>
+            <p n="3">3. The Officers and Dependants on the ſtanding Army, Garriſons, Train of Artillery, and Stores, are not leſs than five hundred.</p>
+            <p n="4">4. The Officers and Dependants on the Kings certain and caſual Revenue, including the P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrogative, Admiralty, and Poſt Office, are beſt computed from the Annual Charge of the Crown, which is to them more than forty thouſand pounds <hi>per Annum,</hi> and are not leſs in number than 400 Employs.</p>
+            <p n="5">5. As to the Officers and Dependants on the Church, it is well known that the whole King<g ref="char:EOLhyphen"/>dom is divided into 22 Dioceſſes, each Dioceſs hath his Biſhoprick; the 4 Provinces have each of them an Arch-Biſhop, with about 2508 Pariſhes, with their reſpective Dignitaries, which though inferiour in number to thoſe in <hi>England,</hi> yet what they have is near equal in value, and ſettled by Law as in <hi>England,</hi> and cannot have leſs than Employs for 3000 Perſons, who muſt be all Proteſtants.</p>
+            <p n="6">6. The number of the reſpective Counties, Cities, Towns Corporate, and Burroughs, Em<g ref="char:EOLhyphen"/>ploys, are beſt known by the Survey of the whole Kingdom, which is near equal to <hi>England,</hi> (<hi>Wales</hi> excepted) and conſiſts of 32 Counties, beſide the Counties of the reſpective Cities, each County having ſeveral Towns Corporate, and all Judicial and Miniſterial Employments with ſeveral diſtinct Revenues of Houſes, Lands, Fees, and other Perquiſites to ſupport the Dignities of their reſpective Communities and their Officers, which being the higheſt and only places of Truſt, and Power in the ſaid reſpective Counties, Cities, Towns Corporate and Bur<g ref="char:EOLhyphen"/>roughs, of the Kingdom, muſt be preſumed to have a ſuitable Support, and cannot be in Number leſs then Eight Hundred.</p>
+            <p>So that the whole Number of the ſaid Employs in Church and State appears to be more then 5300 Places of Reputation, Truſt. Power, and plentiful Support, <hi>viz.</hi> to the Church 3000, and to the State 2300, which muſt be all put into the hands of Proteſtants, though the <hi>Iriſh</hi> Pa<g ref="char:EOLhyphen"/>piſts ſhould be ſo wiſe as to ſubmit on the 10th of <hi>April,</hi> 1689, to the Terms held forth in the King and Queens Declaration to all their Loving Subjects in that Kingdom, bearing Date at <hi>White-hall</hi> the 22d of <hi>February,</hi> 1688.</p>
+            <p>But in caſe of their Refuſal, there will be a much greater Encouragement to the Proteſtant Officers and Souldiers who are or ſhall be Engaged in the War, as appears by the following particulars,</p>
+            <list>
+               <item>1. The <hi>Iriſh</hi> Papiſts having had the favour of the two laſt Kings, by Donations and Reſtau<g ref="char:EOLhyphen"/>rations, are much Richer now, then in the Year 1641.</item>
+               <item>2. The greateſt part of their Lands, having been Improved by the <hi>Brittiſh,</hi> and when ſo Improved, taken from them and given the <hi>Iriſh,</hi> were lately of much greater Vallew then in 1641</item>
+               <item>3. The ſaid <hi>Iriſh</hi> are now in poſſeſſion as of their own Right, of near Four Millions of Acres of the beſt Land, and beſt Improved, in that Kingdom.</item>
+               <item>4. The ſaid Lands with the Improvements cannot be of leſs Vallew then 8 Millions of Pounds.</item>
+               <item>5. The Forces agreed on by the Houſe of Commons the 19th of <hi>March,</hi> 1688. to be forth<g ref="char:EOLhyphen"/>with Raiſed, being put into Sober and Experienced Officers Hands, and that Army well Paid and Governed, may with God's Bleſſing, in all probability, in Twelve Months time Reduce and Recover that Kingdom.</item>
+               <pb n="4" facs="tcp:100937:3"/>
+               <item>6. The whole Charge of that Army in Twelve Months cannot amount unto half a Million of Pounds, which is <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot a 16th of what will be got by the ſaid Conqueſt, which is leſs then the Proteſtants have already loſt, and the <hi>Iriſh</hi> Papiſts got, by plundering Houſes and Stock off of Lands, beſides the fall of Rents and Devaſta<g ref="char:EOLhyphen"/>tion of Plantations.</item>
+               <item>7. The Kings Majeſty, whoſe Word is as Sacred as his Office, hath by the Declaration, aforementioned, aſ<g ref="char:EOLhyphen"/>ſured to all ſuch Officers and Souldiers as ſhall be Aiding and Aſſiſting in the Reducing the ſaid Kingdom, that all Lands and Eſtates that by Law ſhall by that Rebellion be forfeited to Him, ſhall be diſtributed and diſpoſed unto the ſaid Army.</item>
+            </list>
+            <p>So that the Souldiery having good Pay, a Proſpect of theſe Lands, and an Aſſurance of the aforeſaid Civil Employs, let a Scrutiny be make into all the Military Services in Chriſtendom, and ſee it thence can be Extract<g ref="char:EOLhyphen"/>ed one Inſtance of Parallel, or equal Encouragement to this War of Reducing <hi>Ireland.</hi>
+            </p>
+            <p>It is too ſadly known that the <hi>Brittiſh</hi> received all Imaginable Diſcouragement, and the <hi>Iriſh</hi> all Imaginable Favour, ſince the Year 1660, the reſpective Chief Governours publick Inſtructions being to favour the Engliſh, but their private and more effectual Inſtructions was ſtill to favour the <hi>Iriſh;</hi> yet not withſtanding thoſe Varie<g ref="char:EOLhyphen"/>ties of Diſcouragements it is well known, that ſuch hath been the Sobriety and Induſtry even of many of the private Souldiers both of Horſe and Foot in the late General <hi>Cromwells</hi> Army, that they were before the preſent Popiſh Government under <hi>Tyrconnell</hi> poſſeſſed of Conſiderable Eſtates real perſonal, and alſo in Conſiderable Publick Employs in that Kingdom; and that which is yet more Remarkable, and as equally True, is, That when ſome of the late Governours in Complyance with their private Inſtructions put ſeveral <hi>Engliſh</hi> out and <hi>Iriſh</hi> into Places of Truſt and Power, they found the ſaid <hi>Iriſh</hi> ſo unable and uncapable to manage them that they were forced, againſt their Wills, as well as their private Inſtructions, to return them into the <hi>Brittiſh</hi> or <hi>Engliſh</hi> hands, from whence they took them. Such of the <hi>Iriſh</hi> as were Sober, Induſtrious, and Men of Eſtates, were much better ſatisfied that thoſe Imploys were return'd into <hi>Engliſh</hi> hands, then to have had them continu<g ref="char:EOLhyphen"/>ed in the <hi>Iriſh.</hi> And that which is more Remarkable, is, That our preſent Gracious Soveraign King <hi>William,</hi> Acting his own Principles, by making a Law for Eaſe of Tender Conſciences, and an <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Regiſtry to Secure Property, and frequently Inſpecting the Execution of the Judicial and Miniſterial Officers, Examining the Records of the Reſpective Offices, Moderating and Aſſerting their Reſpective Fees, and placing all, as ought by Law, in <hi>Britiſh</hi> Proteſtants Hands, receiving and reinforcing the Laws made againſt Vagabonds and Idle Perſons, and requiring Juſtices of Peace, perſuant to <hi>Law,</hi> to put forth to Trades ſuch of the Natives Children as are unable to put them forth themſelves, and thereby Encouraging Trade and Manufactury in the reſpective Counties, Cities and Towns, of that Kingdom, and not ſuffer the Trade of the Three Kingdoms for to Interfere or Oppreſs each other, the wide Breaches now made upon the Proteſtants will ſoon be repaired in that King<g ref="char:EOLhyphen"/>dom, the Expenſive Charge of the War ſoon repaid, and <hi>Ireland</hi> which h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> hitherto been a Charge and Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>then to <hi>England,</hi> may for the future be made a place of great Advantage both to the <hi>Brittiſh</hi> Crown, and <hi>Brittiſh</hi> People, and afford better Encouragements to Induſtrious and Sober Perſons then any of our Foreign Plantati<g ref="char:EOLhyphen"/>ons, it being Demonſtrable, That as little Encouragement as was received under the Government of the Two laſt Kings, it is clear, that <hi>Cent per Cent</hi> profit with eaſe hath been made of Money in that Kingdom, and that by the common and commonly known ways of Graſeing Cattel, he that would but disburſe 100 <abbr>l</abbr> in Lean Cat<g ref="char:EOLhyphen"/>tel about the Month of <hi>May,</hi> might well raiſe that 100 <abbr>l</abbr> to a 150 <abbr>l</abbr> in <hi>November</hi> following, though Beef the bell, and Mutton, were both ordinarily then Sold in the publick <hi>Markets</hi> for one Half-Penny a Pound, and ſometimes leſs; and in caſe the ſaid Graſier would keep the ſaid Cattel in Houſe, and feed them well Winter, his Money with eaſe might be doubled before the <hi>May</hi> following, it being frequently known that the very Hides and Tallow would clear the Price of Buying in, and the Charge of Feeding, the ſaid Cattel.</p>
+            <p>To which may be added, as a further Encouragement, the great Plenty of Proviſions, and the Cheapneſs there<g ref="char:EOLhyphen"/>of, for Support of Life, <hi>&amp;c.</hi> for, that in <hi>Ireland</hi> a much better Table may be kept for 100 <abbr>l</abbr> a Year, then in <hi>England</hi> for 300 <abbr>l</abbr> To which alſo may be ſub-joined, as a further Encouragement, that ſhould <hi>Ireland</hi> be re<g ref="char:EOLhyphen"/>covered by another Conqueſt, it might probably make for the greater Advantage of the <hi>Brittiſh</hi> Intereſt, Eſti<g ref="char:EOLhyphen"/>mating the Vallew of Forfeited Lands by the Acts of <hi>Decimo Septimo,</hi> and <hi>Decimo Octavo, Caroli Primi &amp; Se<g ref="char:EOLhyphen"/>cundi,</hi> its manifeſt that the higheſt Vallew of Inheritance was 500 <abbr>l</abbr> (by thoſe Acts,) for 1000 <hi>Iriſh</hi> Acres, which is 50 <abbr>l</abbr> each 100 Acres, and each 100 Acres <hi>Iriſh</hi> contains about 160 <hi>Engliſh</hi> Meaſure; which having the Addition of one Third more of Lands given in as unprofitable, makes the whole near 200 Acres <hi>Engliſh</hi> Mea<g ref="char:EOLhyphen"/>ſure, which if commonly Paſturable may well Feed 100 Head of Cattel every Year. And they being Graſed and Fed as aforeſaid, may at the Years end well yield 200 <abbr>l</abbr> and in caſe the Land be commonly Arable, the ad<g ref="char:EOLhyphen"/>vantage may be demonſtrated to be much higher, ſo that half the Years Profit of 100 Acres of Paſturable Land may Purchaſe the Inheritance, and pay the Graſier one Moiety of his principle Money. Beſides all which it is well known, That Thouſands of Acres of Bog-Land, ſet forth to Souldiers and Adventurers as unprofitable, and without any Conſideration allowed, or Rent reſerved, was Included in their ſeveral <hi>Lots;</hi> that ſince, with an in<g ref="char:EOLhyphen"/>conſiderable Charge in Draining thereof, are become the beſt and moſt valuable Land in the Kingdom, and there are yet many Thouſand Acres of Land now capable of the ſame Improvement.</p>
+            <p>And Laſtly, Though the laſt Rebellion continued Thirteen Years in that Kingdom, coſt and loſt many Millions of Pounds, (as appears by a 6 <abbr>d</abbr> Book lately Printed for <hi>R. Baldwin</hi> in the <hi>Old Baily,</hi> and Intituled, <hi>The State of the Papiſt and Proteſtant Proprieties in the Kingdom of Ireland,</hi> &amp;c.) and Reduced the Lands not to a Moiety of the aforeſaid Vallew, yet it is rationally preſumed, that with the aforeſaid Forces, Managed as aforeſaid, and under that ſober ſtrict Diſcipline as the late General <hi>Cromwell</hi>'s Army was in that Kingdom, its not way doubted but the ſame Conduct will have the ſame Succeſs, and the Lands left in a much better Condition by this, then by the former Rebellion, eſpecially, if one Principle can be but effectually perſued, obſerved and believed, now, as was then, <hi>That no Sober nor Serious Perſon could be a Coward, and no Vain or Frothy Hector Truly Valiant,</hi> which did not only appear True by the Succeſs of that Army, but by the differing Conduct, and differing Succeſs, of Two Armies of a later Date.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Moore</hi> in <hi>White-Fryers,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
